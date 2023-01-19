@@ -1,7 +1,8 @@
 ## 👩🏻‍💻문제를 인지하고 해결하는 개발자 최진아입니다!
 
 ### 💡Introduce
-<a href="https://flower-vacation-498.notion.site/4b851f4fce6240dab99ea539208bacb3" target="_blank"><img src="https://img.shields.io/badge/Resume & Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/><p></p></a>
+<a href="https://flower-vacation-498.notion.site/4b851f4fce6240dab99ea539208bacb3" target="_blank"><img src="https://img.shields.io/badge/Resume-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+<a href="https://www.canva.com/design/DAFXbXXxmLo/5nOHrj0qSAQgpTvTCluG6A/view?utm_content=DAFXbXXxmLo&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink" target="_blank"><img src="https://img.shields.io/badge/Portfolio-00C4CC?style=flat-square&logo=Canva&logoColor=white"/></a>
 
 ### 🛠Skills
 <div>
